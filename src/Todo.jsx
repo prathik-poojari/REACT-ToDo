@@ -60,7 +60,7 @@ export default function Todo() {
 
                     ))}
                 </ul>) : (
-                <p>No Task to show...</p>
+                <p>No Task to display...</p>
             ))}
 
             {toUpperCaseAll === false ? <button onClick={toUpperCase}> To UpperCase </button> : <button onClick={toLowerCase}> To LowerCase </button>}
