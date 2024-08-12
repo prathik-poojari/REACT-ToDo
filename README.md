@@ -23,7 +23,7 @@ A simple Todo application built using React to practice state management and use
 
 ## Hosted Link
 
-[https://lotteryusingreact.netlify.app/](#)  
+[https://prathiktodo.netlify.app/](#)  
 
 
 
