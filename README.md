@@ -9,13 +9,6 @@ A simple Todo application built using React to practice state management and use
 - **Mark Task as Completed:** Users can mark a task as completed by clicking the check (✅) icon. Completed tasks are displayed with a different style.
 - **Change Case:** Users can toggle all tasks between uppercase and lowercase using the "To UpperCase" or "To LowerCase" button.
 
-## Usage
-
-- **Add a Task:** Type your task in the input field and click on "Add Task".
-- **Complete a Task:** Click on the check (✅) icon to mark a task as completed.
-- **Delete a Task:** Click on the delete (❌) icon to remove a task from the list.
-- **Change Case:** Toggle between uppercase and lowercase for all tasks by clicking the "To UpperCase" or "To LowerCase" button.
-
 ## Technologies Used
 
 - **React:** For building the user interface
